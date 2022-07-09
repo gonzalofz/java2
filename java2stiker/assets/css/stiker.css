@@ -1,0 +1,23 @@
+
+.sticker{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.verificar{
+    display: flex;
+    justify-content: center;
+}
+
+.total{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}

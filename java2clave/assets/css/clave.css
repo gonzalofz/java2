@@ -1,0 +1,29 @@
+
+
+
+.titulo {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .codigo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
